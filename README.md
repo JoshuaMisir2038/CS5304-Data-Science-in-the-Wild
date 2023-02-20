@@ -1,4 +1,4 @@
-##### Bigram model using PySpark.
+# Assignemnt 0: Bigram model using PySpark.
 
 To run this code, you will need to have PySpark installed on your machine. 
 
